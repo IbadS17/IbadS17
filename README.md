@@ -21,7 +21,7 @@ I've been consistently exploring new realms through books .
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mohd-ibaad-shaikh-99849a1a6/)
-- [Portfolio](https://ibads17.github.io/Personal_Portfolio/)
+- [Portfolio](https://ibads17.github.io/personal_portfolio/)
 
 
 Feel free to explore my repositories and connect with me on exciting coding adventures! 🚀
